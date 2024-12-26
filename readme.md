@@ -38,4 +38,20 @@ Aqui você encontrará informações essenciais sobre bancos de dados relacionai
 
 ## Comparações e Escolha do Banco de Dados
 
-- **Escolha SQL**: Ut
+- **Escolha SQL**: Utilizar quando os dados são estruturados, requerem relacionamentos fortes e integridade referencial.
+- **Escolha NoSQL**: Utilizar quando há dados semi-estruturados, escalabilidade horizontal e flexibilidade de schema.
+- **Pontos de Decisão**: Considere fatores como desempenho, escalabilidade, flexibilidade de dados e integração com outras ferramentas e linguagens.
+
+## Exemplos de Bancos de Dados
+
+- **MySQL**: Banco de dados relacional com suporte a joins, transações e consultas complexas.
+- **MongoDB**: Banco de dados NoSQL orientado a documentos, ideal para armazenamento de JSON e escalabilidade.
+- **Cassandra**: Banco de dados NoSQL orientado a coluna, útil para escalabilidade e dados distribuídos.
+- **Neo4j**: Banco de dados NoSQL orientado a grafos, excelente para modelagem e consultas de relacionamentos complexos.
+
+## Fontes e Referências
+
+- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [MongoDB Documentation](https://docs.mongodb.com/)
+- [Neo4j Documentation](https://neo4j.com/docs/)
+- [Cassandra Documentation](https://cassandra.apache.org/doc/latest/)
